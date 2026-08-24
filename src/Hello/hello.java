@@ -10,6 +10,7 @@ public class hello {
         System.out.println("hello "+name);
         for (int i = 1; i <= 20; i++) {
             System.out.println(i);
+            System.out.println("Sang");
         }
     }
 }
