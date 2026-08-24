@@ -6,9 +6,10 @@ public class hello {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter your name:");
-        String name=scanner.nextLine();
-        System.out.println("hello "+name);
-        for (int i = 1; i <= 20; i++) {
+        String name = scanner.nextLine();
+        System.out.println("Hello " + name);
+        System.out.println("tuan");
+        for (int i = 1; i <= 10; i++) {
             System.out.println(i);
             System.out.println("Sang");
         }
