@@ -8,7 +8,7 @@ public class hello {
         System.out.println("Enter your name:");
         String name = scanner.nextLine();
         System.out.println("Hello " + name);
-        for (int i = 0; i < 10; i++) {
+        for (int i = 1; i <= 10; i++) {
             System.out.println(i);
         }
     }
