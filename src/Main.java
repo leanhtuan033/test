@@ -5,6 +5,9 @@ public class Main {
             System.out.println("Sang!");
             System.out.println("Chào mừng!");
         }
+        for (int j = 1; j <= 10; j++) {
+            System.out.println("Sang!");
+        }
         int i = 0;
         while (i < 10) {
             System.out.println("hello!");
