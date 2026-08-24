@@ -10,6 +10,7 @@ public class hello {
         System.out.println("hello "+name);
         String name = scanner.nextLine();
         System.out.println("Hello " + name);
+        System.out.println("tuan");
         for (int i = 0; i < 10; i++) {
             System.out.println(i);
         }
